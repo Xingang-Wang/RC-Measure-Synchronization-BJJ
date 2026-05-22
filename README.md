@@ -1,4 +1,4 @@
-# Echo State Network for Hamiltonian Dynamics Prediction
+# Reservoir Computing for Hamiltonian Dynamics Prediction
 
 Codes for the paper: **Inferring measure synchronization in coupled bosonic Josephson junctions with reservoir computing**
 
@@ -29,7 +29,7 @@ codes/
 
 ## Method
 
-The Echo State Network is a type of recurrent neural network with:
+The Reservoir Computing is a type of recurrent neural network with:
 - A randomly initialized, fixed recurrent reservoir
 - Only the output weights are trained via ridge regression
 - Squared activation for even-indexed reservoir nodes
